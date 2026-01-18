@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m a Software Design Engineer with 2.5+ years of experience building scalable microservices using Java, Spring Boot, and Spring Cloud.<br>I enjoy designing high-performance REST APIs, working with databases (PostgreSQL/MySQL/Oracle), and deploying cloud-native applications using Docker, Kubernetes (GKE), Helm, and CI/CD.<br><br>I’ve worked on enterprise systems like LDAP Synchronization, Document Management Microservices, and a Microservices-based Banking Platform, focusing on security (OAuth2, Spring Security), resilience (Resilience4j), and observability (Prometheus, Grafana).
+Hi! I’m a Software Design Engineer, experience of building scalable microservices using Java, Spring Boot, and Spring Cloud.<br>I enjoy designing high-performance REST APIs, working with databases (PostgreSQL/MySQL/Oracle), and deploying cloud-native applications using Docker, Kubernetes (GKE), Helm, and CI/CD.<br><br>I’ve worked on enterprise systems like LDAP Synchronization, Document Management Microservices, and a Microservices-based Banking Platform, focusing on security (OAuth2, Spring Security), resilience (Resilience4j), and observability (Prometheus, Grafana).
 
 
 ## 🌐 Socials:
